@@ -1,0 +1,4 @@
+types of version control system::
+1.local system
+2.centralized version control system
+3.distributed vrsion control system
